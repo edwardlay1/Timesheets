@@ -1,0 +1,227 @@
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.application
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.application
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.application
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.SplashScreen1.resources
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\itextsharp.dll
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\itextsharp.pdfa.dll
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\itextsharp.xtra.dll
+D:\Users\Edward\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\itextsharp.xml
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.SplashScreen1.resources
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.application
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\itextsharp.xml
+E:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+E:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.application
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.application
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\itextsharp.xml
+D:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.SplashScreen1.resources
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.application
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+D:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+U:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+U:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+U:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.application
+U:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+U:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+U:\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.application
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+C:\Users\Edward\Desktop\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\bin\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 V1\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.AboutBox1.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.Form1.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.frmSelectFile.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets OLD\Timesheets 2.0 QuickSort\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmAbout.resources
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmMain.resources
+U:\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmChangePass.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmAbout.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmChangePass.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmMain.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.application
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmAbout.resources
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmChangePass.resources
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmMain.resources
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+U:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.application
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.application
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmAbout.resources
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmChangePass.resources
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmMain.resources
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+D:\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe.config
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.pdb
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\bin\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.vbprojResolveAssemblyReference.cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmAbout.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmChangePass.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmMain.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.frmLogin.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.Resources.resources
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.vbproj.GenerateResource.Cache
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.exe.manifest
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.application
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.exe
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.xml
+C:\Users\edwar\OneDrive\Documents\Visual Studio 2017\Projects\Timesheets 2.0 - Updated\Timesheets\Timesheets\obj\Debug\Timesheets.pdb
